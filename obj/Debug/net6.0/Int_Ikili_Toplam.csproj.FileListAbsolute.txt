@@ -1,0 +1,15 @@
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Int_Ikili_Toplam\bin\Debug\net6.0\Int_Ikili_Toplam.exe
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Int_Ikili_Toplam\bin\Debug\net6.0\Int_Ikili_Toplam.deps.json
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Int_Ikili_Toplam\bin\Debug\net6.0\Int_Ikili_Toplam.runtimeconfig.json
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Int_Ikili_Toplam\bin\Debug\net6.0\Int_Ikili_Toplam.dll
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Int_Ikili_Toplam\bin\Debug\net6.0\Int_Ikili_Toplam.pdb
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Int_Ikili_Toplam\obj\Debug\net6.0\Int_Ikili_Toplam.csproj.AssemblyReference.cache
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Int_Ikili_Toplam\obj\Debug\net6.0\Int_Ikili_Toplam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Int_Ikili_Toplam\obj\Debug\net6.0\Int_Ikili_Toplam.AssemblyInfoInputs.cache
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Int_Ikili_Toplam\obj\Debug\net6.0\Int_Ikili_Toplam.AssemblyInfo.cs
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Int_Ikili_Toplam\obj\Debug\net6.0\Int_Ikili_Toplam.csproj.CoreCompileInputs.cache
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Int_Ikili_Toplam\obj\Debug\net6.0\Int_Ikili_Toplam.dll
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Int_Ikili_Toplam\obj\Debug\net6.0\refint\Int_Ikili_Toplam.dll
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Int_Ikili_Toplam\obj\Debug\net6.0\Int_Ikili_Toplam.pdb
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Int_Ikili_Toplam\obj\Debug\net6.0\Int_Ikili_Toplam.genruntimeconfig.cache
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Int_Ikili_Toplam\obj\Debug\net6.0\ref\Int_Ikili_Toplam.dll
